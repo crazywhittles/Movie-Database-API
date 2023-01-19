@@ -22,15 +22,15 @@ app.get('/results', (req, res) => {
     let termScores = [];
 
     db.collection('termScores')
-    .find()
-    .sort({name: 1})
-    .forEach(name => termScores.push(name))
-    .then(() => {
-        res.status(200).json(termScores);
-    })
-    .catch(() => {
-        res.status(500).json({error: 'Could not fetch documents'})
-    })
+        .find()
+        .sort({ name: 1 })
+        .forEach(name => termScores.push(name))
+        .then(() => {
+            res.status(200).json(termScores);
+        })
+        .catch(() => {
+            res.status(500).json({ error: 'Could not fetch documents' })
+        })
 })
 
 //see percentage of employees who failed Foundation term
