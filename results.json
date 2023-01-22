@@ -1,6 +1,5 @@
 [
   {
-    "_id": 1,
     "name": "Ivy Ledgerton",
     "results": [
       { "term": "Foundation", "score": 67 },
@@ -9,7 +8,6 @@
     ]
   },
   {
-    "_id": 2,
     "name": "Lorene Zumol",
     "results": [
       { "term": "Foundation", "score": 89 },
@@ -18,7 +16,6 @@
     ]
   },
   {
-    "_id": 3,
     "name": "Betsy Shannon",
     "results": [
       { "term": "Foundation", "score": 70 },
@@ -27,7 +24,6 @@
     ]
   },
   {
-    "_id": 4,
     "name": "Sally Algate",
     "results": [
       { "term": "Foundation", "score": 50 },
@@ -36,7 +32,6 @@
     ]
   },
   {
-    "_id": 5,
     "name": "Rudie Glavin",
     "results": [
       { "term": "Foundation", "score": 72 },
@@ -45,7 +40,6 @@
     ]
   },
   {
-    "_id": 6,
     "name": "Ashley Tweddell",
     "results": [
       { "term": "Foundation", "score": 27 },
