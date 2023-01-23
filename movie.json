@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Raiders of the Lost Ark",
+    "year": "1981",
+    "plot": "Archaeologist and adventurer Indiana Jones is hired by the US government to find the Ark of the Covenant before the others do.",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "rated": "PG",
+    "runtime": "115"
+  }
+]

@@ -1,14 +1,14 @@
-# Employee Score Analysis
-## Mongodb API Project
+# Movie Database API
+## Mongodb CRUD API Project
 
-Welcome to my API Project that shows the results of employee scores from 3 different tests.
+Welcome to my CRUD API Project that stores Movies in MongoDB
 
-This API project is only GET requests, and you can request by many different filters.
-Minimum marks to pass a term is 37 out of 100.
+This API project has GET, POST, PATCH and DELETE requests to manage the movies in the db.
 
-results.json is the results stored in my database.
+movie.json is an example of the format for the db.
 
 How to use:
 
-To start the app.js file, type `node .\app.js` into the terminal. To see the results of all employees, type
-(http://localhost:3000/results) into your browser, or I prefer to do this in POSTMAN.
+To start the app.js file, type `node .\app.js` into the terminal. To see all the movies in
+the db, type:
+(http://localhost:4000/movie) into your browser, or I prefer to do this in POSTMAN.
